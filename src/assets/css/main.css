@@ -1,0 +1,21 @@
+:root {
+    --blue: #1979c1;
+    --white: rgb(255, 255, 255);
+    --black: #000000;
+    --yellow: #FBB038;
+    --bgBlue: #005B9E;
+}
+
+.cardImg {
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 0px 1.88515px 7.5406px 1.88515px rgba(0, 0, 0, 0.25);
+}
+
+.anseenAnnouncement{
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    padding: 0 5px;
+}

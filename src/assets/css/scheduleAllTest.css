@@ -1,0 +1,55 @@
+.newTests{
+    border:2px solid blue;
+    width: 950px;
+    margin: auto;
+}
+
+.testHeadderSection{
+    padding: 15px;
+
+}
+
+.headerLogoClass{
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+
+.testAllContent{
+    background-image: url("../img/Background/bg-desktop2.198defc4557db77709ef.png");
+    background-color: #e6e6e6;
+}
+
+
+.matchTheColumn {
+    width: 100%;
+    border: 2px solid #000084;
+    border-radius: 20px;
+    padding: 6px;
+    background: white;
+    margin: 10px 0;
+}
+
+.questionHrading img{
+    width: 100%;
+}
+.borderOffillBlank{
+    border-bottom: 2px solid #000084 !important;
+}
+
+.testSubmitDiv{
+    display: flex;
+    justify-content: space-between;
+}
+@media (max-width:580px) {
+    .newTests {
+        border: 2px solid blue;
+        width: 100%;
+        margin: auto;
+    }
+
+    .testSubmitDiv{
+        /* display: block; */
+        /* justify-content: space-between; */
+    }
+}

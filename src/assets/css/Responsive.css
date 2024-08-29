@@ -1,0 +1,1405 @@
+@media screen and (min-width: 1920px) {
+   .brand-imageLogin {
+      display: none;
+   }
+
+   .newlogin {
+      width: 884px !important;
+      height: 100vh
+   }
+
+   .counterimg {
+      position: absolute;
+      bottom: 567px;
+   }
+
+}
+
+@media screen and (min-width: 1400px) {
+   .counterimg {
+      position: absolute;
+      bottom: 547px;
+   }
+
+   .brand-imageLogin {
+      display: none;
+   }
+
+   .newlogin {
+      width: 100%;
+      height: 100vh;
+      margin-left: 70px;
+  }
+
+   .photo-icon {
+      font-size: 171px !important;
+   }
+
+   .rankTopList {
+      width: 100%;
+      height: 201px;
+      align-items: center;
+   }
+}
+
+@media screen and (min-width: 1201px) and (max-width: 1399px) {
+   /* .conPro {
+      flex-direction: column;
+  }
+   .currentPlan {
+      width: 100%;
+  } */
+   .currentPlan {
+      width: 20%;
+      font-size: 24px;
+   }
+
+   .photo-icon {
+      font-size: 171px !important;
+   }
+
+   .newlogin {
+      width: 650px;
+      height: 100vh
+   }
+
+   .brand-imageLogin {
+      display: none;
+   }
+}
+
+@media screen and (min-width: 993px) and (max-width: 1200px) {
+   .conPro {
+      flex-direction: column;
+  }
+   .currentPlan {
+      width: 100%;
+  }
+   .friendHead {
+      width: 50%;
+   }
+
+   .photo-icon {
+      font-size: 160px;
+   }
+
+   .progressText {
+      /* width: 25%; */
+      color: white;
+      font-size: 22px;
+   }
+
+   .brand-imageLogin {
+      display: none;
+   }
+}
+
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+   .conPro {
+      flex-direction: column;
+  }
+   .currentPlan {
+      width: 100%;
+  }
+   /* .currentPlan {
+      width: 20%;
+      font-size: 21px;
+   } */
+
+   .progressText {
+      /* width: 42%; */
+   }
+
+   .photo-icon {
+      font-size: 120px !important;
+   }
+
+   .brand-imageLogin {
+      display: none;
+   }
+
+   .loginSection {
+      display: flex;
+      align-items: center;
+      height: 100vh;
+   }
+
+   .newlogin {
+      width: 43vw;
+      height: 85vh;
+   }
+
+   .profileSection {
+      width: 100vh;
+   }
+
+   .friendHead {
+      width: 50%;
+   }
+
+   .wallet-img {
+      height: 43vw;
+   }
+
+   .sche-ban {
+      width: 465px;
+      /* padding: 32px 0 0 0; */
+   }
+
+   .subscription {
+      width: 40vw;
+   }
+
+   .upcom-test {
+      width: 465px;
+   }
+
+   .photo-icon {
+      font-size: 160px;
+   }
+
+   .CompleteBanner {
+      margin-top: 38px;
+   }
+
+   /* .profile-img{
+      width: 100%;
+   }
+   .img-text-cen{
+      font-size: 1rem;
+      left: 49%;
+   } */
+}
+
+/* ================================================================================================================================================================================== */
+
+@media screen and (min-width: 577px) and (max-width: 768px) {
+   .currentPlan {
+      width: 100%;
+   }
+
+   .conPro {
+      flex-direction: column;
+   }
+
+   .leftsidePro {
+      margin: 0 0 0 50px;
+      width: 387px;
+   }
+
+   .heading {
+      font-size: 61px !important;
+   }
+
+   .newlogin {
+      display: none;
+   }
+
+   .friendHead {
+      width: 50%;
+   }
+
+   .progressBar {
+      display: flex;
+      /* width: 307px; */
+      align-items: center;
+      justify-content: space-between;
+   }
+
+   .CompleteBanner {
+      margin-top: 74px;
+   }
+
+   .progessPerc {
+      /* width: 257px; */
+   }
+
+   .progressText {
+      /* width: 32%; */
+      color: white;
+      font-size: 18px;
+   }
+
+   .progessNum {
+      color: white;
+      font-size: 16px;
+   }
+
+   .sub-img {
+      display: block;
+      margin: auto;
+   }
+
+   .sub-text {
+      margin-left: 51px;
+   }
+
+   .chapter-level {
+      flex-direction: column;
+      align-items: center;
+   }
+
+   .wallet {
+      width: 90vw;
+   }
+
+   .medal-text {
+      font-size: 14px;
+   }
+
+   .wallet-img {
+      height: 43vw;
+   }
+
+   .points {
+      font-size: 1.5rem !important;
+   }
+
+   .sche-ban {
+      width: 465px;
+      padding: 32px 0 0 0;
+   }
+
+   .upcom-test {
+      width: 465px;
+      padding: 32px 0 0 0;
+   }
+
+   .subscription {
+      width: 41vw !important;
+   }
+
+   .wallet-points {
+      font-size: 1.5rem;
+   }
+
+   .profile-img {
+      width: 100%;
+   }
+
+   .img-text-cen {
+      text-align: center;
+      font-size: 16px;
+      left: 51%;
+   }
+
+   .userDetail {
+      font-size: 12px;
+   }
+
+   .userDetail {
+      font-size: 15px;
+
+   }
+
+   .prof-incons {
+      font-size: 15px;
+   }
+
+   .profil-pad {
+      padding: 7px 0;
+      padding-left: 19px;
+   }
+
+   .appointment {
+      width: 483px;
+   }
+
+   .photo-icon {
+      font-size: 160px !important;
+   }
+
+   .book-gap {
+      display: flex;
+      justify-content: center;
+   }
+
+   .feedbackTitle {
+      font-size: 23px;
+   }
+
+   .feebackRow {
+      width: 713px;
+   }
+
+   .feedbackBtn {
+      width: 112.79px;
+   }
+}
+
+/* ===================================================================================================================================================================================== */
+
+@media screen and (min-width: 320px) and (max-width: 576px) {
+   .level {
+      width: 100%;
+   }
+
+   .levelPlanOne {
+      flex-direction: column;
+      width: 100%;
+   }
+
+   .conPro {
+      flex-direction: column;
+   }
+
+   .pro-head {
+      flex-direction: column;
+   }
+
+   .newlogin {
+      display: none;
+   }
+
+   .schuduleTestFirst {
+      flex-direction: column;
+   }
+
+   .scheduleTestSec {
+      flex-direction: column;
+   }
+
+   .CompleteBanner {
+      margin-top: 28px;
+   }
+
+   .delete-pro-btn {
+      display: block;
+      margin: auto;
+      padding: 6px 22px;
+      border-radius: 14px;
+      border: none;
+      background-color: #1979c1;
+      color: white;
+      font-size: 13px;
+   }
+
+   .profilprog {
+      padding: 0 0 20px 0;
+   }
+
+   .progressBar {
+      display: flex;
+      /* width: 200px; */
+      align-items: center;
+      justify-content: space-between;
+   }
+
+   .progessNum {
+      color: white;
+      font-size: 14px;
+   }
+
+   .progessPerc {
+      /* width: 167px; */
+   }
+
+   .progress {
+      height: 11px;
+   }
+
+   .progress-bar {
+      font-size: 11px;
+   }
+
+   .progressText {
+      /* width: 40%; */
+      color: white;
+      font-size: 15px;
+   }
+
+   .sub-header {
+      height: 83px;
+   }
+
+   .bookibatch {
+      font-size: 29px;
+   }
+
+   .sub-img {
+      display: block;
+      margin: auto;
+   }
+
+   .sub-text {
+      margin-left: 51px;
+   }
+
+   .sub-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+   }
+
+   .banner {
+      width: 90vw !important;
+   }
+
+   .sem-img {
+      width: 20vw !important;
+  }
+
+   .sub-btn {
+      margin: auto;
+      margin-top: 1rem;
+      flex-direction: column;
+      width: 175px;
+   }
+
+   .sem-img {
+      width: 10vw;
+   }
+
+   .chapter-level {
+      flex-direction: column;
+      align-items: center;
+   }
+
+   .wallet-img {
+      height: 57vw;
+   }
+
+   .wallet {
+      width: 90vw;
+   }
+
+   .points {
+      font-size: 1.5rem !important;
+   }
+
+   .sche-ban {
+      width: 226px;
+      /* padding: 21px 0 0 0; */
+   }
+
+   .upcom-test {
+      width: 226px;
+   }
+
+   .shu-list {
+      font-size: 12px;
+   }
+
+   .subscription {
+      width: 65vw;
+   }
+
+   .points-list {
+      font-size: 10px;
+   }
+
+   .points-com {
+      font-size: 10px;
+   }
+
+   .com-font {
+      font-size: 10px;
+   }
+
+   .com-mar {
+      margin-bottom: 21px;
+   }
+
+   .his-back {
+      margin: 52px 56px 33px 0;
+   }
+
+   .wallet-points {
+      font-size: 18px;
+   }
+
+   .friends-com {
+      font-size: 11px;
+   }
+
+   .play-btn-btn {
+      flex-direction: column;
+      font-size: 13px;
+   }
+
+   .play-btn {
+      font-size: 13px;
+      margin-bottom: 13px;
+   }
+
+   .play-btn1 {
+      font-size: 13px;
+   }
+
+   .form-control {
+      font-size: 14px;
+   }
+
+   .search-form {
+      width: 151px;
+      font-size: 14px;
+   }
+
+   .sub-img-img {
+      height: 80px;
+      width: 80px;
+   }
+
+   .img-padd {
+      padding: 0;
+   }
+
+   .sub-tit {
+      font-size: 12px;
+      padding: 0 5px;
+   }
+
+   .edit-btn {
+      width: 100px;
+      font-size: 10px;
+   }
+
+   .heading {
+      font-size: 37px;
+
+   }
+
+   .profile-img {
+      width: 94px;
+      /* margin: 0 0 0 27px; */
+   }
+
+   .img-text-cen {
+      font-size: 11px;
+      left: 23%;
+   }
+
+   /* .book-gap{
+      gap: 36px;
+     } */
+   .book-img {
+      width: 75px;
+   }
+
+   .book-tit {
+      width: 123px;
+      font-size: 12px;
+   }
+
+   .book-com {
+      padding: 0 28px;
+   }
+
+   /* .book-com {
+      padding: 0 28px;
+   } */
+
+   .book-gap {
+      justify-content: center;
+   }
+
+   .book-chap {
+      padding: 4px 0 0 0;
+      font-size: 13px;
+   }
+
+   .profil-pad {
+      width: 246px;
+   }
+
+   .couns-meet {
+      display: flex;
+      flex-direction: column-reverse;
+   }
+
+   .appointment {
+      margin-bottom: 4rem;
+      width: 384px;
+   }
+
+   .Fflex {
+      flex-wrap: wrap;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+   }
+
+   .Sflex {
+      flex-direction: column;
+   }
+
+   .descrp-Flx {
+      flex-direction: column;
+   }
+
+   .flex-profile {
+      flex-direction: column;
+   }
+
+   .userDetail {
+      font-size: 15px;
+   }
+
+   /* .pro-head {
+      flex-direction: column;
+   } */
+
+   .prof-perc {
+      flex-direction: column;
+   }
+
+   .create-text-img {
+      width: 77px;
+   }
+
+   .chap-home {
+      margin: 10px 0 0 0;
+      font-size: 15px;
+   }
+
+   .testmate-img {
+      display: none;
+   }
+
+   .signout-btn {
+      display: flex;
+      width: 97px;
+   }
+
+   .sign-out-text {
+      font-size: 10px;
+      margin: 0;
+   }
+
+   .sign-out-icon {
+      font-size: 10px;
+      margin: 0;
+      padding: 0;
+   }
+
+   .achv-img {
+      width: 75px;
+   }
+
+   .achiText {
+      font-size: 12px;
+   }
+
+   .achvi-sub-tit {
+      width: 6.7rem;
+   }
+
+   .achiv {
+      padding: 0 14px;
+   }
+
+   .photo-icon {
+      padding: 0;
+      font-size: 6rem;
+      margin: 26px 0 0 0;
+   }
+
+   .edit-icon {
+      color: red;
+      font-size: 1.3rem;
+   }
+
+   .edit-position {
+      position: absolute;
+      top: 37px;
+      left: 50px;
+   }
+
+   .pp {
+      padding-top: 21px;
+   }
+
+   /* .user {
+      width: 64px;
+      height: 144px;
+   } */
+
+   .schul-test-mT {
+      margin: 10px 0 0 0;
+   }
+
+   .TestRest {
+      padding: 3px 0 0 0;
+   }
+
+   .TestResBtn {
+      font-size: 10px;
+      width: 100% !important;
+   }
+
+   .hist-main {
+      height: 0;
+   }
+
+   .hist-btn {
+
+      text-transform: capitalize;
+      font-size: 18px;
+      background-color: rgb(7, 94, 159);
+      margin-bottom: 35px;
+      padding: 0 22px;
+      border-radius: 28px;
+   }
+
+   .NextPev {
+      width: 102px;
+   }
+
+   .errCounbtn {
+      width: 141px;
+      display: block;
+      margin: auto;
+   }
+
+   .addFriendErrBtn {
+      width: 145px;
+      display: block;
+      margin: auto;
+   }
+
+   .upComFriendcard {
+      flex-direction: column;
+   }
+
+   .friendHead {
+      width: 97%;
+      padding: 10px 0 0 0;
+   }
+
+   .friendListgame {
+      flex-wrap: wrap;
+   }
+
+   .user {
+      width: 0;
+      height: 0;
+   }
+
+   .myUser {
+      text-align: center;
+   }
+
+   .photo-icon {
+      font-size: 120px !important;
+   }
+
+   .leftsidePro {
+      margin: 0 !important;
+   }
+
+   .img-text-cen {
+      text-align: center;
+      font-size: 16px;
+   }
+
+   .currentPlan {
+      width: 100%;
+   }
+   .plan{
+      text-align: left;
+      width: 100%;
+   }
+   .EditImg{
+      width: 80px;
+   }
+   .EditText{
+      width: 80px;
+      font-size: 10px;
+   }
+   .EditImgText {
+      padding: 0 37px;
+  }
+}
+
+/* =================================================================================================================================================================================== */
+
+@media screen and (min-width: 425px) and (max-width:578px) {
+   .book-com {
+      padding: 0 40px;
+   }
+}
+
+/* @media screen and (min-width: 380px) and (max-width:407px){
+    .book-com{
+      padding: 0 19px;
+    }
+} */
+
+@media screen and (min-width: 375px) and (max-width:578px) {
+   .book-tit {
+      width: 123px;
+      font-size: 12px;
+   }
+
+   .ques-min {
+      flex-direction: column;
+   }
+
+   .schdule-ques-min {
+      justify-content: center;
+      padding: 7px 0 0 0;
+   }
+
+   .book-com {
+      padding: 0 19px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+   }
+
+   .book-gap {
+      justify-content: center;
+   }
+
+   .couns-meet {
+      display: flex;
+      flex-direction: column-reverse;
+   }
+
+   .appointment {
+      margin-bottom: 4rem;
+      width: 344px;
+   }
+
+   .Fflex {
+      flex-wrap: wrap;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+   }
+
+   .Sflex {
+      flex-direction: column;
+   }
+
+   .coun-wid {
+      min-width: 308px;
+   }
+}
+
+/* ======================================================================================================================================================================================= */
+
+@media screen and (min-width: 240px) and (max-width: 379px) {
+   .EditImg{
+      width: 80px;
+   }
+   .EditText{
+      width: 80px;
+      font-size: 10px;
+   }
+   .EditImgText {
+      padding: 0 22px;
+  }
+   .plan{
+      text-align: left;
+      width: 100%;
+   }
+   .level {
+      width: 100%;
+   }
+
+   .levelPlanOne {
+      flex-direction: column;
+      width: 100%;
+   }
+
+   .currentPlan {
+      width: 100%;
+   }
+
+   .conPro {
+      flex-direction: column;
+   }
+
+   .img-text-cen {
+      text-align: center;
+      font-size: 16px;
+   }
+
+   .leftsidePro {
+      margin: 0 !important;
+   }
+
+   .photo-icon {
+      font-size: 100px !important;
+   }
+
+   .myUser {
+      text-align: center;
+   }
+
+   .user {
+      width: 0;
+      height: 0;
+   }
+
+   .pro-head {
+      flex-direction: column;
+   }
+
+   .newlogin {
+      display: none;
+   }
+
+   .friendListgame {
+      flex-wrap: wrap;
+   }
+
+   .friendHead {
+      width: 97%;
+      padding: 10px 0 0 0;
+   }
+
+   .profilprog {
+      padding: 0 0 20px 0;
+   }
+
+   .sub-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+   }
+
+   .chapter-level {
+      flex-direction: column;
+      align-items: center;
+   }
+
+   .banner {
+      width: 90vw;
+   }
+
+   .points {
+      font-size: 1.5rem;
+   }
+
+   .subscription {
+      width: 84vw;
+   }
+
+   .points-com {
+      font-size: 6px;
+      font-weight: 500;
+   }
+
+   .his-back {
+      margin: 52px 30px 33px 0;
+   }
+
+   .wallet-points {
+      font-size: 18px;
+   }
+
+   .friends-com {
+      font-size: 9px;
+   }
+
+   .play-btn-btn {
+      flex-direction: column;
+      font-size: 10px;
+   }
+
+   .play-btn {
+      font-size: 10px;
+      margin-bottom: 13px;
+   }
+
+   .play-btn1 {
+      font-size: 10px;
+      /* margin-bottom: 13px; */
+   }
+
+   .form-control {
+      font-size: 14px;
+   }
+
+   .search-form {
+      width: 120px;
+      font-size: 10px;
+   }
+
+   .sub-img-img {
+      height: 80px;
+      width: 80px;
+   }
+
+   .img-padd {
+      padding: 0;
+      width: 134px;
+      /* border: 1px solid; */
+  }
+
+  .img-padd h6{
+   width: 100%;
+}
+
+/* .testsubAnswers{
+   padding: 25px 0;
+} */
+
+   .sub-tit {
+      font-size: 12px;
+      padding: 0 5px;
+   }
+
+   .edit-btn {
+      width: 100px;
+      font-size: 10px;
+   }
+
+   .heading {
+      /* font-size: 37px; */
+      font-size: 48px !important;
+      /* margin-top: 42px; */
+   }
+
+   .profile-img {
+      width: 94px;
+      display: block;
+      margin: auto;
+      /* margin: 0 0 0 27px; */
+   }
+
+   .img-text-cen {
+      font-size: 11px;
+      left: 50%;
+   }
+
+   .book-com {
+      padding: 0 13px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+   }
+
+   .book-img {
+      /* width: 124px; */
+      width: 75px;
+   }
+
+   .book-chap {
+      padding: 4px 0 0 0;
+      font-size: 10px;
+   }
+
+   .appointment {
+      width: 290px;
+      margin-bottom: 4rem;
+   }
+
+   .coun-wid {
+      min-width: 271px;
+      display: block;
+      margin: auto;
+   }
+
+   .couns-meet {
+      display: flex;
+      flex-direction: column-reverse;
+   }
+
+   /* .appointment{
+   margin-bottom: 4rem;
+   width: 344px;
+  } */
+   .Fflex {
+      flex-wrap: wrap;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+   }
+
+   .Sflex {
+      flex-direction: column;
+   }
+
+   .descrp-Flx {
+      flex-direction: column;
+   }
+
+   .flex-profile {
+      flex-direction: column;
+   }
+
+   .userDetail {
+      font-size: 14px;
+   }
+
+   /* .pro-head {
+      flex-direction: column;
+   } */
+
+   .prof-perc {
+      flex-direction: column;
+   }
+
+   .create-text-img {
+      width: 77px;
+   }
+
+   .chap-home {
+      margin: 7px 0 0 0;
+      font-size: 13px;
+   }
+
+   .level-flex {
+      align-items: center;
+   }
+
+   .sub-level {
+      margin-top: 10px;
+   }
+
+   .edit-chap {
+      font-size: 16px;
+   }
+
+   .testmate-img {
+      display: none;
+   }
+
+   .signout-btn {
+      display: flex;
+      width: 97px;
+   }
+
+   .sign-out-text {
+      font-size: 10px;
+      margin: 0;
+   }
+
+   .sign-out-icon {
+      font-size: 10px;
+      margin: 0;
+      padding: 0;
+   }
+
+   .achv-img {
+      width: 75px;
+   }
+
+   .achiText {
+      font-size: 12px;
+   }
+
+   .achvi-sub-tit {
+      width: 6.7rem;
+   }
+
+   .achiv {
+      padding: 0 14px;
+   }
+
+   .user-deatil-icon {
+      font-size: 20px;
+   }
+
+   .Pro-flx-flx {
+      align-items: center;
+   }
+
+   .progressBar {
+      display: flex;
+      /* width: 148px; */
+      align-items: center;
+      justify-content: space-between;
+   }
+
+   .progessPerc {
+      /* width: 120px; */
+   }
+
+   .progessNum {
+      color: white;
+      font-size: 12px;
+   }
+
+   .progressText {
+      /* width: 44%; */
+      color: white;
+      font-size: 12px;
+   }
+
+   .delete-pro-btn {
+      font-size: 12px;
+   }
+
+   .CompleteBanner {
+      margin-top: 28px;
+   }
+
+   .ques-min {
+      flex-direction: column;
+   }
+
+   .schdule-ques-min {
+      justify-content: center;
+      padding: 7px 0 0 0;
+   }
+
+   .scheduleTestSec {
+      flex-direction: column;
+   }
+
+   .schuduleTestFirst {
+      flex-direction: column;
+   }
+
+   .schul-test-mT {
+      margin: 10px 0 0 0;
+   }
+
+   .TestRest {
+      padding: 3px 0 0 0;
+   }
+
+   .TestResBtn {
+      font-size: 10px;
+      width: 130px;
+
+   }
+
+   .hist-main {
+      height: 0;
+   }
+
+   .hist-btn {
+
+      text-transform: capitalize;
+      font-size: 18px;
+      background-color: rgb(7, 94, 159);
+      margin-bottom: 35px;
+      padding: 0 22px;
+      border-radius: 28px;
+   }
+
+   .NextPev {
+      width: 102px;
+   }
+
+   .errCounbtn {
+      width: 141px;
+      display: block;
+      margin: auto;
+   }
+
+   .addFriendErrBtn {
+      width: 145px;
+      display: block;
+      margin: auto;
+   }
+
+   .upComFriendcard {
+      flex-direction: column;
+   }
+}
+
+@media(max-width:500px){
+   .bannerImagesss{
+      height: auto !important;
+  }
+  .edit-btn {
+   width: 145px !important;
+   font-size: 15px;
+}
+
+.dashboards{
+   justify-content: space-around;
+   align-items: start;
+}
+
+.testsubAnswers{
+   padding: 20px 0 ;
+   height: auto;
+}
+
+.mcqOptions {
+   display: block;
+}
+
+.questionlength {
+   display: flex;
+   padding: 0 50px 0px;
+   justify-content: space-between;
+   align-items: center;
+}
+.backAndNextAns {
+   display: flex;
+   /* padding: 0; */
+   justify-content: space-between;
+   position: static;
+   bottom: 100px;
+   width: 96%;
+}
+
+.fontSizeChange{
+   font-size: 20px !important;
+}
+
+.navTest {
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+}
+.registerLogo{
+   width: 35% !important;
+}
+
+.dateAndTime{
+   flex-direction: column;
+}
+
+.startime{
+   text-align: center;
+}
+
+.testBAckground{
+   height: 100vh !important;
+   background-size: cover;
+}
+
+.optionsMcqs{
+   margin-right: 0 !important;
+}
+
+.standingSline{
+   border-bottom: 0.4rem solid var(--blue) !important;
+   height: 0 !important;
+}
+
+.calenderImage{
+   display: none !important;
+}
+.mcqSection{
+   margin-top: 50px;
+}
+.mcqQuestionss {
+   padding: 0 25px;
+}
+
+.mainLogo{
+   display: none;
+}
+
+.answerPara{
+   width: 300px;
+}
+.answerPara{
+   width: 100%;
+   margin: 20px 0;
+}
+
+
+.levelPlanTwo{
+   flex-direction: column;
+   gap: 30px;
+}
+.comingsoons{
+   font-size: 30px;
+}
+.Com-title {
+   font-size: 0px;
+   padding: 40px 0 0;
+}
+}
